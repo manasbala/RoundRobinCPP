@@ -1,8 +1,10 @@
 /* 
- * File:   Process.cpp
+ * File:   main.cpp
  * Author: manasbala
- * 
- * Created on August 9, 2015, 10:14 AM
+ * Email: manas.du@gmail.com
+ * Github: https://github.com/manasbala
+ *
+ * Created on August 9, 2015, 10:10 AM
  */
 
 #include "Process.h"
